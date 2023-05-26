@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DariaKryv
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m JS developer
+- 🌱 I’m currently working with React TS
 - 📫 How to reach me https://www.linkedin.com/in/daria-kryvosheieva-7a5375167/
 
 <!---
